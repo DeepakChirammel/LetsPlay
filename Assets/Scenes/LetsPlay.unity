@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 8518707}
   - component: {fileID: 8518706}
   m_Layer: 5
-  m_Name: Text
+  m_Name: SumText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -182,7 +182,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 0
+  m_Text: Sum
 --- !u!222 &8518707
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -654,7 +654,7 @@ GameObject:
   - component: {fileID: 719714219}
   - component: {fileID: 719714218}
   m_Layer: 5
-  m_Name: Text
+  m_Name: EqualsText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -996,7 +996,7 @@ GameObject:
   - component: {fileID: 978454057}
   - component: {fileID: 978454056}
   m_Layer: 5
-  m_Name: Text
+  m_Name: InputTextB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1075,7 +1075,7 @@ GameObject:
   - component: {fileID: 1007995839}
   - component: {fileID: 1007995838}
   m_Layer: 5
-  m_Name: Text
+  m_Name: PlusText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1154,7 +1154,7 @@ GameObject:
   - component: {fileID: 1174650666}
   - component: {fileID: 1174650665}
   m_Layer: 5
-  m_Name: Text
+  m_Name: InputTextA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
